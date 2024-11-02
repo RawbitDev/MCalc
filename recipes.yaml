@@ -1,0 +1,60 @@
+Red Katar:
+  Red Matter Shears: 1
+  Red Matter Axe: 1
+  Red Matter Sword: 1
+  Red Matter Hoe: 1
+  Red Matter: 5
+
+Red Matter Shears:
+  Dark Matter Shears: 1
+  Red Matter: 1
+
+Dark Matter Shears:
+  Dark Matter: 1
+  Diamond: 1
+
+Red Matter Axe:
+  Dark Matter Axe: 1
+  Red Matter: 3
+  Dark Matter: 1
+
+Dark Matter Axe:
+  Dark Matter: 3
+  Diamond: 2
+
+Red Matter Sword:
+  Dark Matter Sword: 1
+  Red Matter: 2
+
+Dark Matter Sword:
+  Dark Matter: 2
+  Diamond: 1
+
+Red Matter Hoe:
+  Dark Matter Hoe: 1
+  Red Matter: 2
+  Dark Matter: 1
+
+Dark Matter Hoe:
+  Dark Matter: 2
+  Diamond: 2
+
+Red Matter:
+  Aeternalis Fuel: 6
+  Dark Matter: 3
+
+Dark Matter:
+  Aeternalis Fuel: 8
+  Block of Diamond: 1
+
+Block of Diamond:
+  Diamond: 9
+
+Aeternalis Fuel:
+  Mobius Fuel: 4
+
+Mobius Fuel:
+  Alchemical Coal: 4
+
+Alchemical Coal:
+  Coal: 4
